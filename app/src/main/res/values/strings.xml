@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pizza Tip Calculator App</string>
+    <string name="enter_bill_amount">Enter Bill Amount</string>
+    <string name="total">Total </string>
+    <string name="_0">0%</string>
+    <string name="past_history">History</string>
+    <string name="tip1">Tip</string>
+    <string name="tip">0.0</string>
+    <string name="total_bill">0.0</string>
+    <string name="saved_file">Saved File</string>
+    <string name="save">Save</string>
+    <string name="amounts">Amounts</string>
+    <string name="bill">Bill</string>
+    <string name="tip3">Tip%</string>
+</resources>
